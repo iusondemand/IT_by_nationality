@@ -18,3 +18,6 @@ US|US|-|Signal|messenger|https://signal.org/
 US|US|US|WhatsApp|messenger|https://whatsapp.com
 US|US|US|Twitter|social, microblogging|https://twitter.com
 -|-|IT,federated|Mastodon|social, microblogging|https://mastodon.uno
+
+
+license: cc nc @2022 v. Spataro - IusOnDemand srl
