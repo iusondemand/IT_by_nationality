@@ -1,0 +1,20 @@
+# Software by nationality
+<style>table{background-color:white;}</style>
+<br>@send to info@privacykit.it
+
+
+nation|developers|server|name|desc|url
+-|-|-|-
+AE|RU|-|Telegram|messenger|www.telegram.org
+EU|EU|own|Nextcloud|cloud|https://www.nextcloud.com 
+IT|IT|-|Czip|compression,tools|https://www.czip.it/
+IT|IT|it|Uranium Backup|backup,tools|https://www.uranium-backup.com/it/
+RU|RU|-|Drweb|antimalware|https://www.drweb.com/
+RU|RU|-|Kaspersky|antivirus|https://www.kaspersky.com
+RU|RU|-|Nginx|http server|
+RU|RU|-|TrueConf|video conferences|
+RU|RU|-|Winaero|win optimization|
+US|US|-|Signal|messenger|https://signal.org/
+US|US|US|WhatsApp|messenger|https://whatsapp.com
+US|US|US|Twitter|social, microblogging|https://twitter.com
+-|-|IT,federated|Mastodon|social, microblogging|https://mastodon.uno
