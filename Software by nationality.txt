@@ -6,7 +6,8 @@
 nation|developers|server|name|desc|url
 -|-|-|-
 AE|RU|-|Telegram|messenger|www.telegram.org
-EU|EU|own|Nextcloud|cloud|https://www.nextcloud.com 
+DE|EU|own|Nextcloud|cloud - Nextcloud GmbH,open source|https://www.nextcloud.com 
+FR|FR|-|Wallabag|Read later, open source|https://wallabag.org/fr
 IT|IT|-|Czip|compression,tools|https://www.czip.it/
 IT|IT|it|Uranium Backup|backup,tools|https://www.uranium-backup.com/it/
 RU|RU|-|Drweb|antimalware|https://www.drweb.com/
